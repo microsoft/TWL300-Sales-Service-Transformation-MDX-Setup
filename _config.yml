@@ -1,0 +1,24 @@
+title: TechWorkshop Sales Service Transformation MDX Setup
+description: A hands-on workshop for configuring Dynamics 365 Sales, Customer Service, and Copilot for a unified sales and service transformation.
+theme: just-the-docs
+
+aux_links:
+  "TechWorkshop Sales Service Transformation MDX Setup": 
+    - "https://github.com/microsoft/TWL300-Sales-Service-Transformation-MDX-Setup"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: important
+    color: blue
+  new:
+    title: new
+    color: green
+  note:
+    title: note 
+    color: purple
+  warning:
+    title: warning
+    color: red
