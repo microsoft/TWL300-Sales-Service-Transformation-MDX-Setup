@@ -3,7 +3,7 @@ description: A hands-on workshop for configuring Dynamics 365 Sales, Customer Se
 theme: just-the-docs
 
 aux_links:
-  "TechWorkshop Sales Service Transformation MDX Setup": 
+  "TechWorkshop L300: Sales Service Transformation MDX Setup": 
     - "https://github.com/microsoft/TWL300-Sales-Service-Transformation-MDX-Setup"
 
 callouts_level: quiet # or loud
