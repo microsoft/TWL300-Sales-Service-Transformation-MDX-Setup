@@ -1,0 +1,7 @@
+// Make tables horizontally scrollable when they overflow
+.main-content table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  max-width: 100%;
+}
