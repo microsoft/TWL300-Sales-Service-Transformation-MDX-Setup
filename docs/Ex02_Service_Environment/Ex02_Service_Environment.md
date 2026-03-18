@@ -18,9 +18,19 @@ You've selected the **Service Transformation with AI** workshop. In this exercis
 
 ## Tasks
 
+### Deploy your environment
+
 1. Import the Demo Hub solution template
+
+### Configure users and licenses
+
+{:style="counter-reset: step-counter 1;"}
 2. Identify the user accounts in your environment
 3. Ensure that your users are added to the correct Power Platform environment
+
+### Configure forecast external data
+
+{:style="counter-reset: step-counter 3;"}
 4. Enable Workforce Management
 5. Create bookable resources
 6. Create shift activity types
@@ -29,10 +39,18 @@ You've selected the **Service Transformation with AI** workshop. In this exercis
 9. Create a long-term forecast
 10. Configure short-term case forecasts
 11. Configure long-term case forecasts
+
+### Import historical data
+
+{:style="counter-reset: step-counter 11;"}
 12. Update the Origin column in your environment
 13. Import supporting Contacts into your environment
 14. Import supporting accounts into your environment
 15. Import supporting cases into your environment
+
+### Create and configure a support site
+
+{:style="counter-reset: step-counter 15;"}
 16. Create a support site
 17. Make the site public
 18. Create a demo user for the portal
@@ -42,4 +60,8 @@ You've selected the **Service Transformation with AI** workshop. In this exercis
 22. Set up a chat channel
 23. Deploy your chat widget to a portal
 24. Verify your Chat widget has been deployed
+
+### Other prerequisites
+
+{:style="counter-reset: step-counter 24;"}
 25. Enable AI form fill assistance
