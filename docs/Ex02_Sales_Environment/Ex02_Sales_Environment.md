@@ -9,9 +9,8 @@ has_children: true
 
 ## Estimated time
 
-- **Hands-on:** 3–5 minutes
-- **Provisioning of environment:** 2–3 hours
-- **Wait time for addition of Copilot licenses:** 24 hours
+- **Hands-on:** 60–75 minutes
+- **Processing/wait time:** 6–8 hours
 
 ## Tasks
 
