@@ -1,25 +1,19 @@
 ---
-title: 'Exercise 00: Environment readiness and setup'
+title: 'Exercise 01: Create an MDX tenant and select a workshop'
 layout: default
 nav_order: 2
 has_children: true
 ---
 
-# Exercise 00: Environment readiness and setup
+# Exercise 01: Create an MDX tenant and select a workshop
 
-## Exercise Learning Objectives
-- Provision a Dynamics 365 Sales and Customer Service environment.
-- Verify licensing and user access required for the lab.
-- Configure foundational settings needed for subsequent exercises.
+Microsoft provides Microsoft Digital Experiences (MDX) environments that allow employees and partners to create fully functional demo environments (tenants).
 
-## Licensing and environment
-- A Microsoft 365 tenant with administrator access.
-- Dynamics 365 Sales and Customer Service licenses (trial or sandbox).
-- Power Platform admin center access.
+You can use these environments for testing, training, and customer demonstrations.
 
-## Roles and permissions
-- Lab environment: Global Administrator or Dynamics 365 System Administrator.
-- Real-world deployments: System Administrator role in the target Dynamics 365 environment.
+MDX environments include preconfigured software (for example Microsoft 365 or Dynamics 365), admin and user accounts, and licenses. The environments also have specific security features enabled.
 
 ## Estimated time
-**20–30 minutes**
+
+- **Hands-on:** 3–5 minutes
+- **Provisioning of tenant:** 5–10 minutes
