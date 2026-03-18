@@ -12,17 +12,10 @@ has_children: true
 - **Hands-on:** 60–75 minutes
 - **Processing/wait time:** 6–8 hours
 
-## Tasks
+## Sections
 
-1. Deploy the demo environment
-2. Add required users to the environment
-3. Add Copilot capacity credits
-4. Enable AI prompts
-5. Enable the modern look
-6. Create an app registration and application user
-7. Configure and enable a shared mailbox
-8. Configure auditing
-9. Create product data
-10. Create marketing campaigns
-11. Import opportunity records
-12. Create and define goals
+1. Deploy your environment
+2. Configure users and licenses
+3. Configure environment settings
+4. Configure app registration and email
+5. Import data
