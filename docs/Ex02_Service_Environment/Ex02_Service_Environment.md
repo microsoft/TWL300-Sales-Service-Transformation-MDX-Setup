@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 02: Prepare a Service Transformation with AI Environment'
+title: 'Service Transformation with AI'
 layout: default
 nav_order: 4
 has_children: true
 ---
 
-# Exercise 02: Create an environment for the *Service Transformation with AI* workshop
+# Prepare a Service Transformation with AI environment
 
 You've selected the **Service Transformation with AI** workshop. In this exercise, you'll deploy the Demo Hub solution template, configure users and licenses, set up workforce management and forecasting, import historical data, create a support site, and enable remaining prerequisites.
 

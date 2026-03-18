@@ -1,11 +1,11 @@
 ---
-title: 'Exercise 02: Prepare a Sales Transformation with AI Environment'
+title: 'Sales Transformation with AI'
 layout: default
 nav_order: 3
 has_children: true
 ---
 
-# Exercise 02: Create an environment for Sales Transformation with AI workshops
+# Prepare a Sales Transformation with AI environment
 
 ## Estimated time
 
