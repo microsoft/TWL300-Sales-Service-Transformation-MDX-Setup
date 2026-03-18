@@ -1,26 +1,45 @@
 ---
-title: 'Exercise 02: Create a Service Transformation with AI Environment'
+title: 'Exercise 02: Prepare a Service Transformation with AI Environment'
 layout: default
-nav_order: 5
+nav_order: 4
+has_children: true
 ---
 
-## Exercise 02: Create an environment for the *Service Transformation with AI* workshop
+# Exercise 02: Create an environment for the *Service Transformation with AI* workshop
 
-You've selected the **Service Transformation with AI** workshop. In this exercise, you'll deploy the Demo Hub solution template to provision an environment.
+You've selected the **Service Transformation with AI** workshop. In this exercise, you'll deploy the Demo Hub solution template, configure users and licenses, set up workforce management and forecasting, import historical data, create a support site, and enable remaining prerequisites.
 
----
+## Estimated time
 
-### Task 1: Import the Demo Hub solution template
+- **Hands-on:** 60–75 minutes
+- **Workforce Management installation:** up to 1 hour
+- **Case import processing:** approximately 6 hours
+- **Site creation:** up to 30 minutes
 
-> 
->   It is highly recommended that you deploy the latest version of the Demo Hub Template. Older versions might be missing some items and may not allow some of the Teams calling features to be deployed. While you may be able to complete all the labs without a fresh deployment, it is not guaranteed.
+## Tasks
 
-> 
-
--  Go to [DemoHub](https://bizappsdemos.microsoft.com/).
-
--  In DemoHub, deploy the **Dynamics 365 Customer Experience and Service** demo template.
-
-![image001.png](../../media/image001.png)
-
----
+1. Import the Demo Hub solution template
+2. Identify the user accounts in your environment
+3. Ensure that your users are added to the correct Power Platform environment
+4. Enable Workforce Management
+5. Create bookable resources
+6. Create shift activity types
+7. Import daily and intraday external data
+8. Create short-term forecasts
+9. Create a long-term forecast
+10. Configure short-term case forecasts
+11. Configure long-term case forecasts
+12. Update the Origin column in your environment
+13. Import supporting Contacts into your environment
+14. Import supporting accounts into your environment
+15. Import supporting cases into your environment
+16. Create a support site
+17. Make the site public
+18. Create a demo user for the portal
+19. Preview and test the site
+20. Configure a chat channel
+21. Create a chat workstream
+22. Set up a chat channel
+23. Deploy your chat widget to a portal
+24. Verify your Chat widget has been deployed
+25. Enable AI form fill assistance

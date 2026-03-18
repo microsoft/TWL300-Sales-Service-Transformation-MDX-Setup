@@ -1,15 +1,11 @@
 ---
-title: 'Exercise 02: Create a Sales Transformation with AI Environment'
+title: 'Exercise 02: Prepare a Sales Transformation with AI Environment'
 layout: default
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 
-# Exercise 02: Create an environment for the Sales Transformation with AI workshop
-
-You've selected the **Sales Transformation with AI** workshop. In this exercise, you'll provision a tenant for the workshop.
-
-Once you successfully complete the exercise, you'll be provided with a link so that you can register for the workshop.
+# Exercise 02: Create an environment for Sales Transformation with AI workshops
 
 ## Estimated time
 
